@@ -1,0 +1,90 @@
+[
+  {
+    "id": "snp_001",
+    "name": "Craftroot Fashion Hub",
+    "domain": "Ethnic Wear Fashion, Handloom Sarees, Silk Textiles, Traditional Clothing",
+    "sectors": ["Fashion", "Textiles", "Handicrafts"],
+    "regions": ["UP", "West Bengal", "Rajasthan", "Gujarat"],
+    "operational_capacity": 0.85,
+    "contact": "craftroot@ondc.org",
+    "ondc_id": "ondc.craftroot.fashion",
+    "msme_types_served": ["Artisans", "Handloom Weavers", "Cottage Industries"]
+  },
+  {
+    "id": "snp_002",
+    "name": "Agra Leather Collective",
+    "domain": "Leather Goods, Footwear, Leather Accessories, Chappal, Shoes",
+    "sectors": ["Footwear", "Leather"],
+    "regions": ["UP", "Punjab", "Haryana"],
+    "operational_capacity": 0.75,
+    "contact": "agra.leather@ondc.org",
+    "ondc_id": "ondc.agra.leather",
+    "msme_types_served": ["Leather Artisans", "Footwear Manufacturers"]
+  },
+  {
+    "id": "snp_003",
+    "name": "GreenGrove Organic Hub",
+    "domain": "Organic Food, Agriculture Produce, Spices, Grains, Pulses, Dairy",
+    "sectors": ["Food", "Agriculture", "Grocery"],
+    "regions": ["Maharashtra", "Karnataka", "Tamil Nadu", "AP"],
+    "operational_capacity": 0.90,
+    "contact": "greengrove@ondc.org",
+    "ondc_id": "ondc.greengrove.food",
+    "msme_types_served": ["Farmer Producer Orgs", "Food Processors", "APMC Sellers"]
+  },
+  {
+    "id": "snp_004",
+    "name": "HomeCraft Solutions",
+    "domain": "Home Decor, Handicrafts, Wooden Furniture, Brass Items, Pottery, Ceramics",
+    "sectors": ["Home & Kitchen", "Handicrafts", "Furniture"],
+    "regions": ["Rajasthan", "MP", "UP", "Odisha"],
+    "operational_capacity": 0.60,
+    "contact": "homecraft@ondc.org",
+    "ondc_id": "ondc.homecraft.solutions",
+    "msme_types_served": ["Craftsmen", "Furniture Makers", "Pottery Artists"]
+  },
+  {
+    "id": "snp_005",
+    "name": "TechParts India",
+    "domain": "Engineering Components, Auto Parts, Industrial Hardware, Metal Fabrication, Machined Parts",
+    "sectors": ["Engineering", "Auto Ancillary", "Manufacturing"],
+    "regions": ["Maharashtra", "Gujarat", "Tamil Nadu", "Karnataka"],
+    "operational_capacity": 0.70,
+    "contact": "techparts@ondc.org",
+    "ondc_id": "ondc.techparts.india",
+    "msme_types_served": ["Small Manufacturers", "Auto Ancillary Units", "Machine Shops"]
+  },
+  {
+    "id": "snp_006",
+    "name": "BeautyBharat Direct",
+    "domain": "Ayurvedic Beauty, Herbal Cosmetics, Natural Skincare, Wellness Products, Essential Oils",
+    "sectors": ["Beauty", "Wellness", "Personal Care"],
+    "regions": ["Kerala", "Maharashtra", "Uttarakhand", "HP"],
+    "operational_capacity": 0.55,
+    "contact": "beautybharat@ondc.org",
+    "ondc_id": "ondc.beautybharat.direct",
+    "msme_types_served": ["Ayurvedic Manufacturers", "Herbal Product Makers", "SHGs"]
+  },
+  {
+    "id": "snp_007",
+    "name": "JewelCraft Exports",
+    "domain": "Handmade Jewellery, Silver Jewellery, Gold Ornaments, Imitation Jewellery, Gems",
+    "sectors": ["Jewellery", "Handicrafts"],
+    "regions": ["Rajasthan", "Gujarat", "West Bengal", "Odisha"],
+    "operational_capacity": 0.65,
+    "contact": "jewelcraft@ondc.org",
+    "ondc_id": "ondc.jewelcraft.exports",
+    "msme_types_served": ["Jewellery Artisans", "Silversmith Units", "Goldsmith Cooperatives"]
+  },
+  {
+    "id": "snp_008",
+    "name": "PackagePro MSME",
+    "domain": "Packaging Materials, Corrugated Boxes, Paper Bags, Eco Packaging, Plastic Alternatives",
+    "sectors": ["Packaging", "Paper Products"],
+    "regions": ["All India"],
+    "operational_capacity": 0.80,
+    "contact": "packagepro@ondc.org",
+    "ondc_id": "ondc.packagepro.msme",
+    "msme_types_served": ["Packaging Units", "Paper Mills", "Eco-Startups"]
+  }
+]
