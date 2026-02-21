@@ -5,6 +5,7 @@ const NAVLINKS = [
     { to: '/register', label: 'Register MSE', icon: '📝', badge: 'AI' },
     { to: '/matches', label: 'SNP Matches', icon: '🔗' },
     { to: '/verify', label: 'Verify Docs', icon: '🔍' },
+    { to: '/contracts', label: 'Contracts', icon: '🏛️', badge: 'LIVE' },
 ];
 
 export default function Navbar() {

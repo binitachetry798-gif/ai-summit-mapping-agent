@@ -58,4 +58,17 @@ export const verifyDocument = async (file) => {
   return res.data;
 };
 
+// ─── Contract Search ────────────────────────────────────────────────────────
+export const searchContracts = async ({ product_desc, location, state, top_k = 10 }) => {
+  const res = await api.get('/contracts/search', {
+    params: { product_desc, location, state, top_k },
+  });
+  return res.data;
+};
+
+export const getContractPortals = async () => {
+  const res = await api.get('/contracts/portals');
+  return res.data;
+};
+
 export default api;

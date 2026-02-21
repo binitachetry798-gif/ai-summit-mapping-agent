@@ -9,7 +9,7 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from dotenv import load_dotenv
 from models.database import init_db
-from routers import classify, match, voice, verify, onboard
+from routers import classify, match, voice, verify, onboard, contracts
 
 load_dotenv()
 
@@ -52,6 +52,7 @@ app.include_router(classify.router)
 app.include_router(match.router)
 app.include_router(voice.router)
 app.include_router(verify.router)
+app.include_router(contracts.router)
 
 # ─── Startup ────────────────────────────────────────────────────────────────
 
